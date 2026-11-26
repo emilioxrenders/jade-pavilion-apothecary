@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Apothecary.Playground/Apothecary.Playground.csproj" />
+  </Folder>
+</Solution>
